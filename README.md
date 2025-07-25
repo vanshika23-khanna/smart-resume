@@ -20,13 +20,13 @@ this is only frontend live demo
 ## Installation & Setup
 
 '''bash
-git clone https://github.com/vanshika23-khanna/smart-resume.git
-cd smart-resume
-npm install
-npm start
+- git clone https://github.com/vanshika23-khanna/smart-resume.git
+- cd smart-resume
+- npm install
+- npm start
 
 ## Deployment
-This project is deployed via GitHub Pages using gh-pages.
+
 npm run deploy
 
 ---
